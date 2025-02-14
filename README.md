@@ -1,7 +1,7 @@
 ## Olá! Me chamo Felipe Vitorino 👋
 
 🎯 Desenvolvedor Back-end com foco em **Java**, **Spring** e **Angular**.  
-🚀 Aspirante a Full Stack Developer buscando sempre evoluir e aprender novas tecnologias.  
+🚀 Aspirante a desenvolvedor Full Stack buscando sempre evoluir e aprender novas tecnologias.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfelipevitorino/)
 
@@ -38,4 +38,4 @@
 
 ## 🌱 Interesses Futuros
 - Aprofundar conhecimentos em **Java**, **Spring** e **Angular**.
-- Tornar-me **Full Stack Developer**.
+- Tornar-me **Desenvolvedor Full Stack**.
