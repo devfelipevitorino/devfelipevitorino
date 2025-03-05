@@ -37,5 +37,5 @@
 ---
 
 ## 🌱 Interesses Futuros
-- Aprofundar conhecimentos em **Java**, **Spring** e **Angular**.
+- Aprofundar conhecimentos em **Desenvolvimento de Software**
 - Tornar-me **Desenvolvedor Full Stack**.
