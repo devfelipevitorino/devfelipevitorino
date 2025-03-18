@@ -7,7 +7,7 @@
 
 ![Felipe Vitorino GitHub stats](https://github-readme-stats.vercel.app/api?username=devfelipevitorino&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfelipevitorino&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfelipevitorino&layout=compacttheme=dark)
 
 
 ---
