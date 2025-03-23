@@ -39,6 +39,7 @@
 
 ## 💼 Projetos em andamento
 - **Gerenciador de Help Desk**: Utilizando **Spring Boot**, **Angular** e **SQL**.
+- **Landing Page**: Utilizando **HTML**, **CSS** e **JS**.
 
 ---
 
