@@ -28,6 +28,14 @@ Sou Felipe Vitorino, estudante de Análise e Desenvolvimento de Sistemas. Tenho 
 />
 <img 
     align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
@@ -41,14 +49,6 @@ Sou Felipe Vitorino, estudante de Análise e Desenvolvimento de Sistemas. Tenho 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 <img 
     align="left" 
@@ -76,11 +76,19 @@ Sou Felipe Vitorino, estudante de Análise e Desenvolvimento de Sistemas. Tenho 
 />
 <img 
     align="left" 
-    alt="Node.js" 
-    title="Node.js"
+    alt="PHP" 
+    title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 <img 
     align="left" 
