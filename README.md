@@ -33,13 +33,4 @@ Sou Felipe Vitorino, estudante de Análise e Desenvolvimento de Sistemas. Tenho 
   <img alt="Git" title="Git" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
----
-
-<p align="center">
-
-| Linguagens mais usadas no GitHub | GitHub Streak Stats |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devFelipevitorino&layout=compact&theme=tokyonight&langs_count=9&hide_border=true) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devFelipevitorino&theme=tokyonight&hide_border=true) |
-
-</p>
 
