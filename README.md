@@ -21,11 +21,10 @@ Sou Felipe Vitorino, estudante de Análise e Desenvolvimento de Sistemas. Tenho 
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left" style="margin-bottom: 5px;">
-  <img alt="JavaScript" title="JavaScript" width="40px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="Node.js" title="Node.js" width="40px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="TypeScript" title="TypeScript" width="40px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="PHP" title="PHP" width="40px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img alt="Java" title="Java" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Go" title="Go" width="40px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+  <img alt="PHP" title="PHP" width="40px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img alt="MySQL" title="MySQL" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="HTML5" title="HTML5" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
