@@ -1,35 +1,55 @@
-# Felipe Vitorino
+<h1 align="center">Olá 👋, eu sou Felipe Vitorino</h1>
 
-**`Desenvolvedor Full Stack`**
+###
 
-Sou Felipe Vitorino, estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência como desenvolvedor full stack, com foco principal em JavaScript, Node.js e PHP. Também possuo conhecimentos em Java, Angular e Spring Boot.
-
----
+<h3 align="left">👨‍💻 Sobre Mim</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/devfelipevitorino/" target="_blank" rel="noopener noreferrer">
-    <img 
-      alt="LinkedIn" 
-      title="Me adicione no LinkedIn" 
-      src="https://custom-icon-badges.demolab.com/badge/Linkedin-1155ba?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&logoColor=white" 
-      />
+Sou Felipe, desenvolvedor Full Stack e estudante da área de tecnologia.<br><br>
+- 🔭 Tenho conhecimento e atualmente trabalho em projetos com JavaScript, PHP e C#<br>
+- 📚 Estou em constante aprendizado de frameworks modernos de backend<br>
+- ⚡ No meu tempo livre gosto de construir projetos e estudar novas tecnologias
+</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</div>
+
+###
+
+<h3 align="left">🔥 Minhas Estatísticas do GitHub</h3>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=devfelipevitorino&show_icons=true&theme=radical&count_private=true" height="165" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelipevitorino&layout=compact&theme=radical" height="165" alt="Top Languages" /></td>
+  </tr>
+</table>
+
+###
+
+<h3 align="left">🔗 Contato</h3>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/devfelipevitorino/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-</p>
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<p align="left" style="margin-bottom: 5px;">
-  <img alt="Java" title="Java" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="40px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="C#" title="C#" width="40px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img alt="PHP" title="PHP" width="40px" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="MySQL" title="MySQL" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="HTML5" title="HTML5" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" title="CSS3" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="Docker" title="Docker" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="Git" title="Git" width="30px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
-
-
+</div>
