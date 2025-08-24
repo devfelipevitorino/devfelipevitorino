@@ -6,7 +6,7 @@
 
 <p align="left">
 Sou Felipe, desenvolvedor Full Stack e estudante da área de tecnologia.<br><br>
-- 🔭 Tenho conhecimento e atualmente trabalho em projetos com JavaScript, PHP e C#<br>
+- 🔭 Tenho conhecimento e atualmente trabalho em projetos com Java, JavaScript, PHP e C#<br>
 - 📚 Estou em constante aprendizado de frameworks modernos de backend<br>
 - ⚡ No meu tempo livre gosto de construir projetos e estudar novas tecnologias
 </p>
